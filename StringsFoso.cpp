@@ -1,3 +1,5 @@
+/*  By: Oscar Tosat  */
+
 #include<iostream>
 #include<string.h>
 
@@ -33,7 +35,7 @@ int main(){
 		if(strcmp(palabra1,palabra2)!=0){}; //Ambas palabras son diferentes
 		if(strcmp(palabra1,palabra2)<,>0){}; //palabra1 es < o > que palabra2
 	
-	//Añadir o concatenar una cadena con otra - funcion strcat()
+	//AÃ±adir o concatenar una cadena con otra - funcion strcat()
 		har cad1[]="Esto es una cadena";
 		char cad2[]=" de ejemplo";
 		char cad3[30];
